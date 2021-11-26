@@ -1,3 +1,3 @@
 # Calculadora_React
 
-A PWA made with cra. and the framework of Css Bootstrap.
+A PWA made with create-react-app and the framework of Css Bootstrap.
